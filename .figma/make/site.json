@@ -1,0 +1,10 @@
+{
+  "description": "Streamline sample management with an intuitive dashboard that provides detailed insights and tracking for efficient decision-making in research and development.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
